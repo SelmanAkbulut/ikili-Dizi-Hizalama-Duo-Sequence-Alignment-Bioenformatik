@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476609360 source:c:\users\sa\desktop\odev1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1483145000 source:d:\ss\bilgisayar\ders notlarý\bioenformatik\odev1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+
